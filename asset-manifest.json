@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pritesh-reactjs/static/css/main.cfd6d18d.chunk.css",
+    "main.js": "/pritesh-reactjs/static/js/main.4f145c52.chunk.js",
+    "main.js.map": "/pritesh-reactjs/static/js/main.4f145c52.chunk.js.map",
+    "runtime~main.js": "/pritesh-reactjs/static/js/runtime~main.fdaa963b.js",
+    "runtime~main.js.map": "/pritesh-reactjs/static/js/runtime~main.fdaa963b.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/pritesh-reactjs/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/pritesh-reactjs/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/pritesh-reactjs/index.html",
+    "precache-manifest.05a768291382f60f206c4f6a5f63096d.js": "/pritesh-reactjs/precache-manifest.05a768291382f60f206c4f6a5f63096d.js",
+    "service-worker.js": "/pritesh-reactjs/service-worker.js",
+    "static/css/main.cfd6d18d.chunk.css.map": "/pritesh-reactjs/static/css/main.cfd6d18d.chunk.css.map"
+  }
+}
