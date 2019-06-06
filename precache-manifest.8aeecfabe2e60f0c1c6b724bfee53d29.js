@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "849a2c1578668a54ffa761d550ea3972",
+    "revision": "442bd9779ca2b0e688a72ab893ff4814",
     "url": "/pritesh-reactjs/index.html"
   },
   {
-    "revision": "e76d876cab44e7cd2638",
+    "revision": "cac76212906232b15855",
     "url": "/pritesh-reactjs/static/css/main.b4042bbd.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pritesh-reactjs/static/js/2.86a2265c.chunk.js"
   },
   {
-    "revision": "e76d876cab44e7cd2638",
-    "url": "/pritesh-reactjs/static/js/main.c4eaf18d.chunk.js"
+    "revision": "cac76212906232b15855",
+    "url": "/pritesh-reactjs/static/js/main.a33b5110.chunk.js"
   },
   {
     "revision": "126ce353177cfce7bc4e",
